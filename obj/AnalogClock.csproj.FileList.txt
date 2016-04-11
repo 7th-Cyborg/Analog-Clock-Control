@@ -1,0 +1,8 @@
+bin\Debug\AnalogClock.exe
+bin\Debug\AnalogClock.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AnalogClock.Form1.resources
+obj\Debug\AnalogClock.Properties.Resources.resources
+obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+obj\Debug\AnalogClock.exe
+obj\Debug\AnalogClock.pdb

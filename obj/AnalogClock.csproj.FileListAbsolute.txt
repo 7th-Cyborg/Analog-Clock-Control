@@ -1,0 +1,10 @@
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+C:\Documents and Settings\Zerox\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+D:\Slozeno po kategorijama\Source codes\Programiranje\Moje stvari\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+D:\Slozeno po kategorijama\Source codes\Programiranje\Moje stvari\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
